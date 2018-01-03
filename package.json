@@ -1,0 +1,17 @@
+{
+  "name": "exercise-14.2",
+  "version": "1.0.0",
+  "description": "ReactJS  - ćwiczenie z listą filmów",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Krzysztof Śliwinski",
+  "license": "ISC",
+  "dependencies": {
+    "html-react-parser": "0.0.4"
+  }
+}
