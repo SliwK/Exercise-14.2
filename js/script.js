@@ -29,7 +29,7 @@ var movies = [
     director: 'Reżyseria: 	Chris Columbus',
     desc: 'film o czarodzieju',
     box: 'Boxoffice: 	$974 755 371',
-    src: './pictures/harry.JPG'
+    src: './pictures/harry.jpg'
   },
   {
     id: 2,
@@ -37,7 +37,7 @@ var movies = [
     director: 'Reżyseria: 	Rob Minkoff, Roger Allers',
     desc: 'Film o królu sawanny',
     box: 'Boxoffice: 	$974 755 371',
-    src: './pictures/lion.JPG'
+    src: './pictures/lion.jpg'
   },
   {
     id: 3,
@@ -45,7 +45,7 @@ var movies = [
     director: 'Reżyseria: 	Carlos Saldanha',
     desc: 'Przyjacielski młody byczek przez pomyłkę zostaje zwerbowany do walk na arenie',
     box: 'Boxoffice: 	$128 942 249',
-    src: './pictures/fernando.JPG'
+    src: './pictures/fernando.jpg'
   },
   {
     id: 4,
@@ -53,7 +53,7 @@ var movies = [
     director: 'Reżyseria: 	Andrew Adamson, Vicky Jenson',
     desc: 'By odzyskać swój dom, brzydki ogr z gadatliwym osłem wyruszają uwolnić piękną księżniczkę.',
     box: 'Boxoffice: 	$484 409 218',
-    src: './pictures/shrek.JPG'
+    src: './pictures/shrek.jpg'
   },
   {
     id: 5,
@@ -61,7 +61,7 @@ var movies = [
     director: 'Reżyseria: 	Tom McGrath, Eric Darnell',
     desc: 'Lew, zebra, hipopotam i żyrafa zostają wysłane statkiem z nowojorskiego zoo do Afryki. ',
     box: 'Boxoffice: 	$532 680 671',
-    src: './pictures/madagaskar.JPG'
+    src: './pictures/madagaskar.jpg'
   },
   {
     id: 6,
@@ -69,7 +69,7 @@ var movies = [
     director: 'Reżyseria: 	Chris Buck, Jennifer Lee',
     desc: 'Kiedy posiadająca moc kontroli nad śniegiem i lodem Elsa sprowadza srogą zimę na swoje królestwo, Anna wyrusza w podróż, aby odszukać siostrę oraz zakończyć pogodowe anomalie. ',
     box: 'Boxoffice: 		$1 274 219 009',
-    src: './pictures/kraina.JPG'
+    src: './pictures/kraina.jpg'
   }
 ];
 
